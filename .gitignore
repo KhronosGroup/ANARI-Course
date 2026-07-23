@@ -1,0 +1,11 @@
+_*/
+*vscode*
+build/
+build-*/
+cmake-build-*
+.vs
+out
+CMakeSettings.json
+.anari_deps
+.claude
+.codex
